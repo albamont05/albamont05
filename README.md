@@ -1,37 +1,39 @@
-# Hola, soy Luis Baez 👋 | Senior Fullstack Engineer
+Hola, soy Luis Alfredo Baez 👋
+Ingeniero de Sistemas | Fullstack Developer (Python & JavaScript)
+Especializado en la digitalización de procesos y la creación de arquitecturas escalables. Mi enfoque principal es transformar requerimientos de negocio complejos en soluciones técnicas eficientes, optimizando la operativa mediante la automatización y el uso estratégico de la nube.
 
-Especialista en el desarrollo de arquitecturas escalables con **Python** y **JavaScript**. Enfocado en la optimización de procesos (logrando hasta un **63% de mejora en performance**) y en el despliegue de infraestructuras en **AWS**.
+🚀 Proyectos Destacados
+🎟️ ERP de Lotería y Gestión Transaccional
+Rol: Desarrollador Fullstack (Node.js & React)
 
----
+Reto: Gestión de alta transaccionalidad y administración de tickets en tiempo real.
 
-### 🚀 Proyectos Destacados
+Solución: Implementación de un backend diseñado para manejar picos de ventas masivas, garantizando la integridad de los datos en entornos de alta demanda.
 
-#### 🎟️ ERP Lotería Kino Táchira
-* **Rol:** Lead Fullstack Developer (Node.js & React)
-* **Reto:** Gestión de alta transaccionalidad y administración de tickets en tiempo real.
-* **Solución:** Implementación de un backend asíncrono diseñado para manejar picos de ventas masivas sin pérdida de integridad de datos.
+📊 SaaS de Gestión ISP/GIS
+Rol: Backend Developer (Python/Django & Redis)
 
-#### 🤖 AI-to-Code Platform
-* **Rol:** Senior Software Engineer (Django & AWS)
-* **Reto:** Automatización de la conversión de diseños Figma a código funcional.
-* **Impacto:** Reducción drástica del tiempo de desarrollo frontend mediante lógica serverless (**AWS Lambda**).
+Impacto: Optimización del 83% en el rendimiento de consultas geográficas complejas mediante estrategias avanzadas de caché y optimización de consultas en el ORM.
 
-#### 📊 SaaS ISP/GIS Management
-* **Rol:** Fullstack Developer (Python/Django & Redis)
-* **Impacto:** Optimización del **63% en el rendimiento de consultas** geográficas pesadas mediante estrategias avanzadas de caché y optimización de ORM.
+Estabilidad: Implementación de un motor de tareas asíncronas con Celery para procesos masivos de datos.
 
----
+🎓 ERP de Gestión Académica
+Rol: Desarrollador Fullstack (Python/Django & AWS)
 
-### 🛠️ Stack Tecnológico
+Impacto: Reducción del 70% en los tiempos de gestión administrativa al migrar procesos manuales a expedientes digitales centralizados en Amazon S3.
 
-* **Lenguajes:** Python (Django, DRF), JavaScript (Node.js, React, Next.js), TypeScript.
-* **Cloud & Infra:** AWS (EC2, S3, Lambda), Docker, Redis.
-* **Testing & Calidad:** Pytest, Celery, Swagger/OpenAPI.
-* **Bases de Datos:** PostgreSQL, MySQL, MongoDB.
+🛠️ Stack Tecnológico
+Lenguajes: Python (Django, DRF), JavaScript (Node.js, React, Next.js), TypeScript.
 
----
+Cloud & Infra: AWS (EC2, S3, Lambda), Docker, Redis.
 
-### 📫 Contacto
-* **LinkedIn:** [linkedin.com/in/luis-alfredo-baez)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/luis-alfredo-baez))
-* **Email:** dev.albamont@gmail.com
-* **Telf:** +584124215097
+Calidad & Testing: Pytest, Celery, Swagger/OpenAPI.
+
+Bases de Datos: PostgreSQL, MySQL, MongoDB.
+
+📫 Contacto
+LinkedIn: linkedin.com/in/luis-alfredo-baez
+
+Email: dev.albamont@gmail.com
+
+WhatsApp: +58 412 421 5097
